@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd47594c.chunk.css",
+    "main.js": "/static/js/main.7470b1b7.chunk.js",
+    "main.js.map": "/static/js/main.7470b1b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.af6b06ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.af6b06ca.js.map",
+    "static/js/2.b9da0426.chunk.js": "/static/js/2.b9da0426.chunk.js",
+    "static/js/2.b9da0426.chunk.js.map": "/static/js/2.b9da0426.chunk.js.map",
+    "static/js/3.ee97d2e7.chunk.js": "/static/js/3.ee97d2e7.chunk.js",
+    "static/js/3.ee97d2e7.chunk.js.map": "/static/js/3.ee97d2e7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dd47594c.chunk.css.map": "/static/css/main.dd47594c.chunk.css.map",
+    "static/js/2.b9da0426.chunk.js.LICENSE.txt": "/static/js/2.b9da0426.chunk.js.LICENSE.txt",
+    "static/media/Page404.css": "/static/media/404-banner.7eb384f9.jpg",
+    "static/media/404.264a974d.png": "/static/media/404.264a974d.png",
+    "static/media/Basketball.css": "/static/media/basketball.238afffe.jpg",
+    "static/media/Football.css": "/static/media/football.2d00cf5a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af6b06ca.js",
+    "static/js/2.b9da0426.chunk.js",
+    "static/css/main.dd47594c.chunk.css",
+    "static/js/main.7470b1b7.chunk.js"
+  ]
+}
